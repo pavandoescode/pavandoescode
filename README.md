@@ -1,11 +1,11 @@
-Hi, I am Pavan Raiyani 👋
-       I am Pursuing Bachelors's in Computer Application. Currently in Senior Year.
+Hi, I am Pavan Raiyani 👋<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am Pursuing <b>Bachelors's in Computer Application</b>, Currently in Senior Year.
 
 
 
-🔭 I’m currently working on Task Management Tool <br>
-🌱 I’m currently MERN
-💬 Ask me about javascript,bootstrap and development advice.
-📫 How to reach me: pavanraiyanicomp@gmail.com
-😄 Pronouns: He/Him.
-⚡ Fun fact: I love pizzas 🍕
+🔭 I’m currently working on <b> Task Management Tool</b> <br>
+🌱 I’m currently learning <b> MERN Stack</b><br>
+💬 Ask me about <b> Javascript , Bootstrap and Web Development </b>  <br>
+📫 How to reach me: pavanraiyanicomp@gmail.com<br>
+
+
