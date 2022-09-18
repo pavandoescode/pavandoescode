@@ -7,3 +7,5 @@
 🌱 I’m currently learning <b> MERN Stack</b><br>
 💬 Ask me about <b> Javascript , Bootstrap and Web Development </b>  <br>
 📫 How to reach me: pavanraiyanicomp@gmail.com<br>
+![image](https://user-images.githubusercontent.com/109412992/190914894-3601546a-ae8e-4e69-b60c-2a49a1319808.png)
+
