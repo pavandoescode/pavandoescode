@@ -1,4 +1,4 @@
-Hi, I am Pavan Raiyani 👋<br>
+<b>Hi</b>, I am Pavan Raiyani 👋<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am Pursuing <b>Bachelors's in Computer Application</b>, Currently in Senior Year.
 
 
