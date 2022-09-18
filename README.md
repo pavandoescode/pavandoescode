@@ -1,9 +1,9 @@
 Hi, I am Pavan Raiyani 👋
        I am Pursuing Bachelors's in Computer Application. Currently in Senior Year.
 
-GIF
 
-🔭 I’m currently working on Task Management Tool
+
+🔭 I’m currently working on Task Management Tool 
 🌱 I’m currently MERN
 💬 Ask me about javascript,bootstrap and development advice.
 📫 How to reach me: pavanraiyanicomp@gmail.com
