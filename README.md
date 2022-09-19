@@ -3,7 +3,7 @@
 
 
 
-🔭 I’m currently working on <b> 5<sup>th</sup> sem project </b> <br>
+🔭 I’m currently working on <b> 5<sup>th</sup> Sem Project </b> <br>
 🌱 I’m currently learning <b> MERN Stack</b><br>
 💬 Ask me about <b> Javascript , Bootstrap and Web Development </b>  <br>
 📫 How to reach me: pavanraiyanicomp@gmail.com<br>
